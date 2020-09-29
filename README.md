@@ -12,7 +12,7 @@
 ### Languages and Tools:
 
 ![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103&style=flat)
-![VS Code](https://img.shields.io/badge/visualstudiocode-badge-blue.svg?style=flat&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/visualstudiocode-purple.svg?style=flat&logo=visual-studio-code)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
