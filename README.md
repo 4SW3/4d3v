@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything😹
 - 💬 Ask me about anything
 - 📫 How to reach me: [✉️](mailto:4d3v@gmail.com)
-- 🤖 Current goal: Contribute more on open source projects
+- 🤖 Current goal: Start contributing on open source projects
 - ⚡ Fun fact: I love football (soccer) and gaming
 
 <br />
